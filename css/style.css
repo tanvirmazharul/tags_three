@@ -1,0 +1,29 @@
+.header{
+	height: 100px;
+	color: darkred;
+	background-color: mistyrose;
+}
+
+.content{
+	height: 500px;
+	overflow: hidden;
+}
+
+.left_content{
+	float: left;
+	height: 500px;
+	width: 50%;
+	background-color: green;
+}
+
+.right_content{
+	float: right;
+	height: 500px;
+	width: 50%;
+	background-color: darkred;
+}
+
+.footer{
+	height: 100px;
+	background-color: skyblue;
+}
